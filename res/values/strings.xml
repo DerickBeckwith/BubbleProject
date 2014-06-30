@@ -4,5 +4,6 @@
     <string name="app_name">BubbleProject</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Goodbye world!</string>
+    <string name="button_text">Push Me!</string>
 
 </resources>
